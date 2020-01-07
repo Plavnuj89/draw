@@ -1,0 +1,14 @@
+*{
+    margin:0;
+    padding:0;
+    outline:none;
+    box-sizing:border-box;
+    font-family: 'Montserrat', sans-serif;
+
+}
+body{
+    background-image: url("https://mtdata.ru/u15/photo1E7F/20539048804-0/original.jpeg#20539048804");
+    background-repeat: no-repeat;
+    background-position: center 10px
+;
+    background-size: 100% ;}
