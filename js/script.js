@@ -5,7 +5,7 @@ var
     coords=[],
     rrad=5
 ;
-canv.width = window.innerWidth;
+canv.width = window.innerWidth;/*найти*/
 canv.height = window.innerHeight;
 // ctx.fillStyle='magenta';
 var x=50;/*git */
