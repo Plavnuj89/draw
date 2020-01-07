@@ -8,7 +8,7 @@ var
 canv.width = window.innerWidth;
 canv.height = window.innerHeight;
 // ctx.fillStyle='magenta';
-var x=50;
+var x=50;/*git */
 
 // ctx.fillRect(x,50,300,200);
 // незакрашенный
