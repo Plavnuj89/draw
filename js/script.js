@@ -6,7 +6,7 @@ var
     rrad=5
 ;
 canv.width = window.innerWidth;/*найти*/
-canv.height = window.innerHeight;
+canv.height = window.innerHeight;/*найти*/
 // ctx.fillStyle='magenta';
 var x=50;/*git */
 
